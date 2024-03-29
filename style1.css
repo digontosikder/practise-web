@@ -1,0 +1,49 @@
+.Main{
+    display: flex ;
+    margin: 40px;
+    text-align: center;
+    
+    align-items: center;
+    font-size: 16px;
+    margin-left: 300px;
+    margin-top: 10px;
+    
+    
+
+}
+#Book{
+    font-size: 20px;
+    text-align: ;
+}
+
+#ho{
+  text-decoration: none;  
+}
+#List{
+    text-decoration: none;
+}
+#Page{
+    text-decoration: none;
+}
+#Gallery{
+    text-decoration: none;
+}
+#Contact{
+    text-decoration: none;
+}
+
+
+.color{
+    padding: 7px;
+    border-radius: 5px;
+    background-color:#1fbe0d;
+    color: white;
+    border: none;
+}
+.Sign{
+    padding:7px 12px ;
+    border-radius: 5px;
+    background-color: cyan;
+    color:white;
+    border: none;
+}

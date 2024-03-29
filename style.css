@@ -1,0 +1,15 @@
+/* external css */
+.color{
+    background-color: blanchedalmond;
+    width: 300px;
+    padding: 15px;
+    border: 2px solid tomato;
+    border-radius: 16px;
+    box-shadow: 15px 15px 15px ;
+    
+}
+.section{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
